@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
-![img](https://github.com/salt0107fish/popps/tree/master/pic/paper/1.pdf)
+![img](pic/paper/1.pdf)
 
 # 1. Abstract
 
@@ -95,7 +95,7 @@ end
 
 ### Large image
 
-![img](https://github.com/salt0107fish/popps/tree/master/pic/baseline/cv.gif)
+![img](pic/baseline/cv.gif)
 
 
 ### Definition lists can be used with HTML syntax.
