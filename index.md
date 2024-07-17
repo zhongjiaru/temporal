@@ -57,43 +57,51 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 
+## 2) Planning performance
+
+### a) Non-reactive
+
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+    <img src="pic/case/bgr.gif" alt="1" style="width: 250px; height: auto;"/>
+    <figcaption>Physical-based</figcaption>
+  </figure>
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+    <img src="pic/case/f.gif" alt="2" style="width: 250px; height: auto;"/>
+    <figcaption>GRIP++</figcaption>
+  </figure>
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+    <img src="pic/case/sind.gif" alt="3" style="width: 250px; height: auto;"/>
+    <figcaption>WaleNet</figcaption>
+  </figure>
+</div>
+
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+    <img src="pic/case/usa.gif" alt="1" style="width: 250px; height: auto;"/>
+    <figcaption>Physical-based</figcaption>
+  </figure>
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+    <img src="pic/case/zam-t.gif" alt="2" style="width: 250px; height: auto;"/>
+    <figcaption>GRIP++</figcaption>
+  </figure>
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+    <img src="pic/case/zam-zip.gif" alt="3" style="width: 250px; height: auto;"/>
+    <figcaption>WaleNet</figcaption>
+  </figure>
+</div>
 
 
+### b) Reactive
 
-## Header 2
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+    <img src="pic/case/usa-t.gif" alt="1" style="width: 250px; height: auto;"/>
+    <figcaption>Trajectron++</figcaption>
+  </figure>
+</div>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
@@ -104,47 +112,7 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![img](pic/baseline/cv.gif)
 
 
 ### Definition lists can be used with HTML syntax.
