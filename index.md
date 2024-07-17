@@ -60,19 +60,20 @@ layout: default
 ### a) Non-reactive
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="pic/case/bgr.gif" alt="1" style="width: 350px; height: auto;"/>
-    <figcaption> </figcaption>
-  </figure>
-  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="pic/case/d.gif" alt="2" style="width: 350px; height: auto;"/>
+  <figure style="display: flex; flex-direction: column; align-items: center; margin: 0 20px 20px 0; height: 400px;">
+    <img src="pic/case/bgr.gif" alt="1" style="width: auto; max-width: 100%; height: auto; margin-bottom: 10px;"/>
     <figcaption></figcaption>
   </figure>
-  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="pic/case/sind.gif" alt="3" style="width: 350px; height: auto;"/>
+  <figure style="display: flex; flex-direction: column; align-items: center; margin: 0 20px 20px 0; height: 400px;">
+    <img src="pic/case/d.gif" alt="2" style="width: auto; max-width: 100%; height: auto; margin-bottom: 10px;"/>
+    <figcaption></figcaption>
+  </figure>
+  <figure style="display: flex; flex-direction: column; align-items: center; margin: 0 0 20px 0; height: 400px;">
+    <img src="pic/case/sind.gif" alt="3" style="width: auto; max-width: 100%; height: auto; margin-bottom: 10px;"/>
     <figcaption></figcaption>
   </figure>
 </div>
+
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
