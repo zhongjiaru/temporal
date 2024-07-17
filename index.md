@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 
 <div style="display: flex; justify-content: center; align-items: center; height: 500px;">
   <img src="pic/paper/1.png" alt="111" style="width: 200%; max-width: 500px; height: auto;"/>
