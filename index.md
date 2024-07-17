@@ -5,7 +5,10 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
-![img](pic/paper/1.png)
+<div style="display: flex; justify-content: center; align-items: center; height: 500px;">
+  <img src="pic/paper/1.png" alt="图片" style="width: 80%; max-width: 500px; height: auto;"/>
+</div>
+
 
 # 1. Abstract
 
