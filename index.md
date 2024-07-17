@@ -29,26 +29,26 @@ layout: default
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
-    <img src="pic/baseline/cv.gif" alt="1" style="width: 250px; height: auto;"/>
+    <img src="pic/baseline/cv.gif" alt="1" style="width: 350px; height: auto;"/>
     <figcaption>Physical-based</figcaption>
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
-    <img src="pic/baseline/grip.gif" alt="2" style="width: 250px; height: auto;"/>
+    <img src="pic/baseline/grip.gif" alt="2" style="width: 350px; height: auto;"/>
     <figcaption>GRIP++</figcaption>
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
-    <img src="pic/baseline/walenet.gif" alt="3" style="width: 250px; height: auto;"/>
+    <img src="pic/baseline/walenet.gif" alt="3" style="width: 350px; height: auto;"/>
     <figcaption>WaleNet</figcaption>
   </figure>
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
-    <img src="pic/baseline/t.gif" alt="1" style="width: 250px; height: auto;"/>
+    <img src="pic/baseline/t.gif" alt="1" style="width: 350px; height: auto;"/>
     <figcaption>Trajectron++</figcaption>
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
-    <img src="pic/baseline/grip.gif" alt="2" style="width: 250px; height: auto;"/>
+    <img src="pic/baseline/grip.gif" alt="2" style="width: 350px; height: auto;"/>
     <figcaption>POP</figcaption>
   </figure>
 </div>
