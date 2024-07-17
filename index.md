@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 500px;">
-  <img src="pic/paper/1.png" alt="图片" style="width: 80%; max-width: 500px; height: auto;"/>
+  <img src="pic/paper/1.png" alt="111" style="width: 200%; max-width: 500px; height: auto;"/>
 </div>
 
 
@@ -32,11 +32,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
     <figcaption>Physical-based</figcaption>
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="pic/baseline/grip.gif" alt="图片2" style="width: 250px; height: auto;"/>
+    <img src="pic/baseline/grip.gif" alt="2" style="width: 250px; height: auto;"/>
     <figcaption>GRIP++</figcaption>
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="pic/baseline/walenet.gif" alt="图片3" style="width: 250px; height: auto;"/>
+    <img src="pic/baseline/walenet.gif" alt="3" style="width: 250px; height: auto;"/>
     <figcaption>WaleNet</figcaption>
   </figure>
 </div>
@@ -47,7 +47,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
     <figcaption>Trajectron++</figcaption>
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="pic/baseline/grip.gif" alt="图片2" style="width: 250px; height: auto;"/>
+    <img src="pic/baseline/grip.gif" alt="2" style="width: 250px; height: auto;"/>
     <figcaption>POP</figcaption>
   </figure>
 </div>
