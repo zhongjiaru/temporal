@@ -24,10 +24,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ## 2) Baseline Compare
 
 <div style="display: flex; flex-direction: row;">
-  <img src="pic/baseline/cv.gif" alt="图片1" style="margin-right: 10px;"/>
-  <img src="pic/baseline/t.gif" alt="图片2" style="margin-right: 10px;"/>
-  <img src=pic/baseline/tp.gif" alt="图片3"/>
+  <img src="pic/baseline/cv.gif" alt="图片1" style="width: 150px; height: auto; margin-right: 10px;"/>
+  <img src="pic/baseline/t.gif" alt="图片2" style="width: 150px; height: auto; margin-right: 10px;"/>
+  <img src="pic/baseline/tp.gif" alt="图片3" style="width: 150px; height: auto;"/>
 </div>
+
 
 
 
