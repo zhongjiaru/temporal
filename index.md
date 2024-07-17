@@ -4,11 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+![img](https://github.com/salt0107fish/popps/tree/master/pic/paper/1.pdf)
 
 # 1. Abstract
 
@@ -98,7 +95,7 @@ end
 
 ### Large image
 
-![img](https://github.com/salt0107fish/popps/tree/master/pic/baseline/cv)
+![img](https://github.com/salt0107fish/popps/tree/master/pic/baseline/cv.gif)
 
 
 ### Definition lists can be used with HTML syntax.
