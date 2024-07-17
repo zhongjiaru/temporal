@@ -28,30 +28,31 @@ layout: default
 ## 2) Baseline Compare
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
     <img src="pic/baseline/cv.gif" alt="1" style="width: 250px; height: auto;"/>
     <figcaption>Physical-based</figcaption>
   </figure>
-  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
     <img src="pic/baseline/grip.gif" alt="2" style="width: 250px; height: auto;"/>
     <figcaption>GRIP++</figcaption>
   </figure>
-  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
     <img src="pic/baseline/walenet.gif" alt="3" style="width: 250px; height: auto;"/>
     <figcaption>WaleNet</figcaption>
   </figure>
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
     <img src="pic/baseline/t.gif" alt="1" style="width: 250px; height: auto;"/>
     <figcaption>Trajectron++</figcaption>
   </figure>
-  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
     <img src="pic/baseline/grip.gif" alt="2" style="width: 250px; height: auto;"/>
     <figcaption>POP</figcaption>
   </figure>
 </div>
+
 
 
 
@@ -74,17 +75,16 @@ layout: default
   </figure>
 </div>
 
-
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
     <img src="pic/case/usa.gif" alt="1" style="width: 350px; height: auto;"/>
     <figcaption></figcaption>
   </figure>
-  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
     <img src="pic/case/zam-t.gif" alt="2" style="width: 350px; height: auto;"/>
     <figcaption></figcaption>
   </figure>
-  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
     <img src="pic/case/zam-zip.gif" alt="3" style="width: 350px; height: auto;"/>
     <figcaption></figcaption>
   </figure>
