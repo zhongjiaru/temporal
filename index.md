@@ -63,31 +63,31 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="pic/case/bgr.gif" alt="1" style="width: 250px; height: auto;"/>
-    <figcaption>Physical-based</figcaption>
+    <img src="pic/case/bgr.gif" alt="1" style="width: 350px; height: auto;"/>
+    <figcaption> </figcaption>
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="pic/case/f.gif" alt="2" style="width: 250px; height: auto;"/>
+    <img src="pic/case/d.gif" alt="2" style="width: 350px; height: auto;"/>
     <figcaption>GRIP++</figcaption>
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="pic/case/sind.gif" alt="3" style="width: 250px; height: auto;"/>
-    <figcaption>WaleNet</figcaption>
+    <img src="pic/case/sind.gif" alt="3" style="width: 350px; height: auto;"/>
+    <figcaption></figcaption>
   </figure>
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="pic/case/usa.gif" alt="1" style="width: 250px; height: auto;"/>
-    <figcaption>Physical-based</figcaption>
+    <img src="pic/case/usa.gif" alt="1" style="width: 350px; height: auto;"/>
+    <figcaption></figcaption>
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="pic/case/zam-t.gif" alt="2" style="width: 250px; height: auto;"/>
-    <figcaption>GRIP++</figcaption>
+    <img src="pic/case/zam-t.gif" alt="2" style="width: 350px; height: auto;"/>
+    <figcaption></figcaption>
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="pic/case/zam-zip.gif" alt="3" style="width: 250px; height: auto;"/>
-    <figcaption>WaleNet</figcaption>
+    <img src="pic/case/zam-zip.gif" alt="3" style="width: 350px; height: auto;"/>
+    <figcaption></figcaption>
   </figure>
 </div>
 
@@ -96,8 +96,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="pic/case/usa-t.gif" alt="1" style="width: 250px; height: auto;"/>
-    <figcaption>Trajectron++</figcaption>
+    <img src="pic/case/usa-int.gif" alt="1" style="width: 350px; height: auto;"/>
+    <figcaption></figcaption>
   </figure>
 </div>
 
