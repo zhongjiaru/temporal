@@ -25,26 +25,26 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 <div style="display: flex; flex-direction: row;">
   <figure style="margin-right: 20px;">
-    <img src="pic/baseline/cv.gif" alt="1" style="width: 300px; height: auto;"/>
+    <img src="pic/baseline/cv.gif" alt="1" style="width: 200px; height: auto;"/>
     <figcaption>Physical-based</figcaption>
   </figure>
   <figure style="margin-right: 20px;">
-    <img src="pic/baseline/grip.gif" alt="图片2" style="width: 300px; height: auto;"/>
+    <img src="pic/baseline/grip.gif" alt="图片2" style="width: 200px; height: auto;"/>
     <figcaption>GRIP++</figcaption>
   </figure>
   <figure>
-    <img src="pic/baseline/walenet.gif" alt="图片3" style="width: 300px; height: auto;"/>
+    <img src="pic/baseline/walenet.gif" alt="图片3" style="width: 200px; height: auto;"/>
     <figcaption>WaleNet</figcaption>
   </figure>
 </div>
 
 <div style="display: flex; flex-direction: row;">
   <figure style="margin-right: 20px;">
-    <img src="pic/baseline/t.gif" alt="1" style="width: 400px; height: auto;"/>
+    <img src="pic/baseline/t.gif" alt="1" style="width: 300px; height: auto;"/>
     <figcaption>Trajectron++</figcaption>
   </figure>
   <figure style="margin-right: 20px;">
-    <img src="pic/baseline/grip.gif" alt="图片2" style="width: 400px; height: auto;"/>
+    <img src="pic/baseline/grip.gif" alt="图片2" style="width: 300px; height: auto;"/>
     <figcaption>POP</figcaption>
   </figure>
 </div>
