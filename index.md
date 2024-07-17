@@ -22,7 +22,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## 1) Experiments details
 
-  ![img](pic/paper/5.png)
+<div style="display: flex; justify-content: center; align-items: center; height: 500px;">
+  <img src="pic/paper/5.png" alt="555" style="width: 200%; max-width: 500px; height: auto;"/>
+</div>
+
 
 ## 2) Baseline Compare
 
@@ -51,12 +54,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
     <figcaption>POP</figcaption>
   </figure>
 </div>
-
-
-
-
-
-
 
 
 
