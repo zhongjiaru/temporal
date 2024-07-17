@@ -48,7 +48,7 @@ layout: default
     <figcaption>Trajectron++</figcaption>
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
-    <img src="pic/baseline/grip.gif" alt="2" style="width: 350px; height: auto;"/>
+    <img src="pic/baseline/tp.gif" alt="2" style="width: 350px; height: auto;"/>
     <figcaption>POP</figcaption>
   </figure>
 </div>
@@ -104,7 +104,7 @@ layout: default
 
 ###### Header 6
 
-| head1        | head two          | three |
+| head1        | head two          | three | 
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
