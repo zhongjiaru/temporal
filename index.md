@@ -68,7 +68,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
     <img src="pic/case/d.gif" alt="2" style="width: 350px; height: auto;"/>
-    <figcaption>GRIP++</figcaption>
+    <figcaption></figcaption>
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
     <img src="pic/case/sind.gif" alt="3" style="width: 350px; height: auto;"/>
