@@ -50,38 +50,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 </div>
 
 
-<div style="display: flex; flex-direction: column;">
-  <div style="margin-bottom: 10px;">
-    <img src="pic/baseline/cv.gif" alt="1" style="width: 250px; height: auto;"/>
-    <figcaption style="text-align: center;">图片1的说明</figcaption>
-  </div>
-  <div style="margin-bottom: 10px;">
-    <img src="pic/baseline/grip.gif" alt="图片2" style="width: 250px; height: auto;"/>
-    <figcaption style="text-align: center;">图片2的说明</figcaption>
-  </div>
-  <div>
-    <img src="pic/baseline/walenet.gif" alt="图片3" style="width: 250px; height: auto;"/>
-    <figcaption style="text-align: center;">图片3的说明</figcaption>
-  </div>
-</div>
-
-
-<div style="display: flex; flex-direction: row;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="path/to/image1.jpg" alt="图片1" style="width: 150px; height: auto;"/>
-    <figcaption style="text-align: center;">图片1的说明</figcaption>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="path/to/image2.jpg" alt="图片2" style="width: 150px; height: auto;"/>
-    <figcaption style="text-align: center;">图片2的说明</figcaption>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="path/to/image3.jpg" alt="图片3" style="width: 150px; height: auto;"/>
-    <figcaption style="text-align: center;">图片3的说明</figcaption>
-  </div>
-</div>
-
-
 
 
 
