@@ -4,18 +4,24 @@ layout: default
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 500px;">
-  <img src="pic/paper/1.png" alt="111" style="width: 200%; max-width: 500px; height: auto;"/>
+  <img src="pic/paper/figure1.png" alt="111" style="width: 200%; max-width: 500px; height: auto;"/>
 </div>
 
 
-# 1. Abstract
+# Abstract
 
-  Autonomous driving is developing rapidly and has become a hot topic in both industry and research. The planning system plays a crucial role in meeting the requirements of autonomous driving, such as safety and effectiveness. However, current planning system designs may not effectively serve planning tasks. A typical modular planning system offers high interpretability and flexibility. However, it may cause task-agnostic problems between the upstream predictor and the downstream planner. End-to-end driving systems have a natural advantage in achieving system-wide integration, but their poor interpretability poses safety risks. To leverage the strengths and mitigate the weaknesses of existing systems, a task-unified planning framework is proposed, aiming to inspire the current prediction-planning paradigm. In this architecture, driving tasks are first modeled. Then, the predictor and planner are jointly designed and optimized based on the driving tasks. Finally, during the actual planning process, the upstream and downstream components remain relatively independent to allow flexible adjustments. The core of this architecture is a planning-oriented predictor named POP, which fully retains the advantages of modular systems by designing the predictor to optimize driving requirements. Comprehensive experiments demonstrate its effectiveness. Compared with typical modular systems, POP can reduce collision scenarios by nearly 50%, ensuring system safety without compromising driving efficiency or comfort, significantly enhancing overall planning performance.
+  Infrastructure sensors installed at elevated positions offer a broader perception range and encounter fewer occlusions. Integrating both infrastructure and ego-vehicle data through V2X communication, known as vehicle-infrastructure cooperation, has shown considerable advantages in enhancing perception capabilities and addressing corner cases encountered in single-vehicle autonomous driving.
+However, cooperative perception still faces numerous challenges, including limited communication bandwidth and practical communication interruptions.
+In this paper, we propose CTCE, a novel framework for cooperative 3D object detection. This framework transmits queries with temporal contexts enhancement, effectively balancing transmission efficiency and performance to accommodate real-world communication conditions.
+Additionally, we propose a temporal-guided fusion module to further improve performance. The roadside temporal enhancement and vehicle-side spatial-temporal fusion together constitute a multi-level temporal contexts integration mechanism, fully leveraging temporal information to enhance performance.
+Furthermore, a motion-aware reconstruction module is introduced to recover lost roadside queries due to communication interruptions.
+Experimental results on V2X-Seq and V2X-Sim datasets demonstrate that CTCE outperforms the baseline QUEST, achieving improvements of $3.8\%$ and $1.3\%$ in mAP, respectively. Experiments under communication interruption conditions validate CTCE's robustness to communication interruptions.
 
-# 2. Method
+# Method
 
-  ![img](pic/paper/2.png)
+  ![img](pic/paper/figure2.png)
 
+<!--
 # 3. Experiments
 
 ## 1) Experiments details
@@ -101,14 +107,4 @@ layout: default
 </div>
 
 
-
-###### Header 6
-
-| head1        | head two          | three | 
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-
+-->
