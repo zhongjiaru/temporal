@@ -3,12 +3,11 @@ layout: default
 ---
 
 
+# Abstract
+
 <div style="display: flex; justify-content: center; align-items: center; height: 500px;">
   <img src="pic/paper/figure1.png" alt="111" style="width: 200%; max-width: 500px; height: auto;"/>
 </div>
-
-
-# Abstract
 
   Infrastructure sensors installed at elevated positions offer a broader perception range and encounter fewer occlusions. Integrating both infrastructure and ego-vehicle data through V2X communication, known as vehicle-infrastructure cooperation, has shown considerable advantages in enhancing perception capabilities and addressing corner cases encountered in single-vehicle autonomous driving.
 However, cooperative perception still faces numerous challenges, including limited communication bandwidth and practical communication interruptions.
