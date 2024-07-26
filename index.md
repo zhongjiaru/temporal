@@ -39,17 +39,8 @@ by Jiaru Zhong, Haibao Yu, Tianyi Zhu, Jiahui Xu, Wenxian Yang, Zaiqing Nie, Cha
   </div>
 </body>
 </html>
-<!--
-<div style="display: flex; justify-content: center; align-items: center; height: 500px;">
-  <img src="pic/paper/figure1.png" alt="111" style="width: 200%; max-width: 500px; height: auto;"/>
-</div>
-  Infrastructure sensors installed at elevated positions offer a broader perception range and encounter fewer occlusions. Integrating both infrastructure and ego-vehicle data through V2X communication, known as vehicle-infrastructure cooperation, has shown considerable advantages in enhancing perception capabilities and addressing corner cases encountered in single-vehicle autonomous driving.
-However, cooperative perception still faces numerous challenges, including limited communication bandwidth and practical communication interruptions.
-In this paper, we propose CTCE, a novel framework for cooperative 3D object detection. This framework transmits queries with temporal contexts enhancement, effectively balancing transmission efficiency and performance to accommodate real-world communication conditions.
-Additionally, we propose a temporal-guided fusion module to further improve performance. The roadside temporal enhancement and vehicle-side spatial-temporal fusion together constitute a multi-level temporal contexts integration mechanism, fully leveraging temporal information to enhance performance.
-Furthermore, a motion-aware reconstruction module is introduced to recover lost roadside queries due to communication interruptions.
-Experimental results on V2X-Seq and V2X-Sim datasets demonstrate that CTCE outperforms the baseline QUEST, achieving improvements of $3.8\%$ and $1.3\%$ in mAP, respectively. Experiments under communication interruption conditions validate CTCE's robustness to communication interruptions.
 -->
+
 <!--
 ## Method
 
