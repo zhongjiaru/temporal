@@ -3,49 +3,6 @@ layout: default
 ---
 # Leveraging Temporal Contexts to Enhance Vehicle-Infrastructure Cooperative Perception
 by Jiaru Zhong, Haibao Yu, Tianyi Zhu, Jiahui Xu, Wenxian Yang, Zaiqing Nie, Chao Sun
-<!--
-## Abstract
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <style>
-    .content {
-      width: 100%;
-      margin: auto;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    .content img {
-      width: 100%;
-      height: auto;
-      margin-bottom: 10px; /* Adjust the margin as needed */
-    }
-    .content p {
-      margin-top: 0; /* Remove the top margin to reduce the gap */
-      text-align: justify; /* Justify the text */
-    }
-  </style>
-</head>
-<body>
-  <div class="content">
-    <img src="pic/paper/figure1.png" alt="111">
-    <p>
-      Infrastructure sensors installed at elevated positions offer a broader perception range and encounter fewer occlusions. Integrating both infrastructure and ego-vehicle data through V2X communication, known as vehicle-infrastructure cooperation, has shown considerable advantages in enhancing perception capabilities and addressing corner cases encountered in single-vehicle autonomous driving. However, cooperative perception still faces numerous challenges, including limited communication bandwidth and practical communication interruptions. In this paper, we propose CTCE, a novel framework for cooperative 3D object detection. This framework transmits queries with temporal contexts enhancement, effectively balancing transmission efficiency and performance to accommodate real-world communication conditions. Additionally, we propose a temporal-guided fusion module to further improve performance. The roadside temporal enhancement and vehicle-side spatial-temporal fusion together constitute a multi-level temporal contexts integration mechanism, fully leveraging temporal information to enhance performance. Furthermore, a motion-aware reconstruction module is introduced to recover lost roadside queries due to communication interruptions. Experimental results on V2X-Seq and V2X-Sim datasets demonstrate that CTCE outperforms the baseline QUEST, achieving improvements of 3.8% and 1.3% in mAP, respectively. Experiments under communication interruption conditions validate CTCE's robustness to communication interruptions.
-    </p>
-  </div>
-</body>
-</html>
--->
-
-<!--
-## Method
-
-  ![img](pic/paper/figure2.png)
--->
 
 ## Results
 <div style="display: flex; flex-direction: row; justify-content: center;">
