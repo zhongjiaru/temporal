@@ -2,7 +2,8 @@
 layout: default
 ---
 # Leveraging Temporal Contexts to Enhance Vehicle-Infrastructure Cooperative Perception
-
+by Jiaru Zhong, Haibao Yu, Tianyi Zhu, Jiahui Xu, Wenxian Yang, Zaiqing Nie, Chao Sun
+<!--
 ## Abstract
 
 <html lang="en">
@@ -49,13 +50,27 @@ Additionally, we propose a temporal-guided fusion module to further improve perf
 Furthermore, a motion-aware reconstruction module is introduced to recover lost roadside queries due to communication interruptions.
 Experimental results on V2X-Seq and V2X-Sim datasets demonstrate that CTCE outperforms the baseline QUEST, achieving improvements of $3.8\%$ and $1.3\%$ in mAP, respectively. Experiments under communication interruption conditions validate CTCE's robustness to communication interruptions.
 -->
-
+<!--
 ## Method
 
   ![img](pic/paper/figure2.png)
+-->
 
 ## Results
-coming soon...
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
+    <img src="pic/paper/drop.gif" alt="1" style="width: 350px; height: auto;"/>
+    <figcaption>Under Interruptions w/o Compensation</figcaption>
+  </figure>
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
+    <img src="pic/paper/drop_compensate.gif" alt="2" style="width: 350px; height: auto;"/>
+    <figcaption>Under Interruptions w/ Compensation</figcaption>
+  </figure>
+  <figure style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; height: 400px;">
+    <img src="pic/paper/temporal.gif" alt="3" style="width: 350px; height: auto;"/>
+    <figcaption>Under Ideal Condition</figcaption>
+  </figure>
+</div>
 
 <!--
 # 3. Experiments
